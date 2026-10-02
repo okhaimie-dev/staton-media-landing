@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Out of Covering – Full Christian Movie | Staton Media Production",
   description: "Watch Out of Covering, a powerful Nigerian Christian movie from Staton Media Production about truth, family, and the secrets we keep.",
   keywords: ["Out of Covering movie", "Out of Covering full movie", "Out of Covering Christian movie", "Nigerian Christian movie", "Nollywood Christian movie", "Christian movies 2026", "Staton Media Production"],
-  metadataBase: new URL("https://okhaimie-dev.github.io/staton-media-landing/"),
+  metadataBase: new URL("https://statontv.com/"),
   alternates: { canonical: "/" },
   openGraph: {
     title: "Out of Covering – Full Christian Movie | Staton Media Production",

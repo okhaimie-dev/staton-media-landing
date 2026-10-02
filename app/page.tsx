@@ -19,6 +19,7 @@ const movieSchema = {
   "@context": "https://schema.org",
   "@type": "Movie",
   name: "Out of Covering",
+  url: "https://statontv.com/",
   description: "Out of Covering is a Nigerian Christian movie from Staton Media Production about secrets, family, faith, and truth.",
   image: "https://i.ytimg.com/vi/Hx6LsE6Vnr4/maxresdefault.jpg",
   director: { "@type": "Person", name: "Staton Omo-Abu" },
